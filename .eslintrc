@@ -1,0 +1,10 @@
+extends: airbnb-base
+env:
+  browser: true
+rules:
+  class-methods-use-this: off
+  func-names: off
+  no-lonely-if: off
+  no-new: off
+  no-param-reassign: off
+  prefer-const: off
